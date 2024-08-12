@@ -4,6 +4,7 @@ notes/DS_Store
 
 # LaTeX compilation files
 
+notes/tabularray.sty
 notes/main.aux
 notes/main.fls
 notes/main.out
